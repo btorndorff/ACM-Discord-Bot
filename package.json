@@ -13,7 +13,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "nodemon ACM.js",
     "start": "node ACM.js"
   },
   "repository": {
